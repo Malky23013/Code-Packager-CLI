@@ -6,7 +6,7 @@ simplifying the process of packaging code for distribution or archival purposes.
 
 Installation
 To install Code Packager CLI, follow these steps:
-Clone the repository from GitHub: git clone https://github.com/your/repository.git
+Clone the repository from GitHub: git clone https://github.com/Malky23013/Practicode1
 
 Available Options
 -s: Sort by type or name.
