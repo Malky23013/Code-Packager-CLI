@@ -1,6 +1,6 @@
 
 Project Title: Code Packager CLI
-Overview
+Overview:
 Code Packager CLI is a small command-line tool that allows users to package multiple code files into a single file. It enables users to execute its functionality via command-line interface (CLI), 
 simplifying the process of packaging code for distribution or archival purposes.
 
